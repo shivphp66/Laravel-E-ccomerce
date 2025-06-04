@@ -162,7 +162,7 @@
 			<div class="row">
 				<div class="col-12 mt-3">
 					<div class="copy-right text-center">
-						<p>© Copyright <?=date('Y'); ?> Laravel-10 Online Shop. All Rights Reserved</p>
+						<p>© Copyright <?=date('Y'); ?> Laravel-10 E-commerce. All Rights Reserved</p>
 					</div>
 				</div>
 			</div>
